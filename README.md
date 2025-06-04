@@ -1,0 +1,13 @@
+# C Programming Practice
+
+This repository contains my practice exercises and workshop tasks for learning the C programming language.
+
+## Progress
+
+Started: Session 1 2025  
+Goal: Strengthen foundational C programming skills.
+
+## Author
+
+Dung Nguyen  
+[GitHub Profile](https://github.com/dungnguyen1206)
