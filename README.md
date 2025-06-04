@@ -11,7 +11,7 @@ Goal: Strengthen foundational C programming skills.
 
 ## Workshop 1
 - [Q1.c](workshop1/Q1.c): Basic calculations and prime checking – [View description](workshop1/Q1.md)
-
+- [Q2.c](workshop1/Q2.c): Common prime divisors, GCD, and LCM – [View description](workshop1/Q2.md)
 
 
 ## Author
