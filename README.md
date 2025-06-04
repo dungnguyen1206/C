@@ -14,7 +14,7 @@ Goal: Strengthen foundational C programming skills.
 - [Q2.c](workshop1/Q2.c): Common prime divisors, GCD, and LCM – [View description](workshop1/Q2.md)
 
 ## Workshop 2
-- [Workshop2.c](workshop2/Workshop2.c): Employee salary processing – [View description](workshop2/workshop2.md)
+- [Workshop2.c](Workshop2.c): Employee salary processing – [View description](workshop2.md)
 
 
 ## Author
