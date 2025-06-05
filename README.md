@@ -16,7 +16,8 @@ Workshop 1
 Workshop 2
 - [Workshop2.c](Workshop2.c): Employee salary processing – [View description](workshop2.md)
 
-
+Workshop 3
+- [workshop3.c](Workshop3/workshop3.c): Array processing – [View description](Workshop3/workshop03.md)
 ## Author
 
 Dung Nguyen  
