@@ -18,6 +18,10 @@ Workshop 2
 
 Workshop 3
 - [workshop3.c](Workshop3/workshop3.c): Array processing – [View description](Workshop3/workshop03.md)
+
+Workshop 4
+- [Workshop 4.c](Workshop4/Workshop%204.c): Sales data analysis – [View description](Workshop4/workshop04.md)
+
 ## Author
 
 Dung Nguyen  
