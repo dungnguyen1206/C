@@ -23,7 +23,7 @@ Workshop 4
 - [Workshop 4.c](Workshop4/Workshop%204.c): Sales data analysis – [View description](Workshop4/workshop04.md)
 
 Workshop 5
-- [Problem_1.c](Problem_1.c): Generate triangle of prime numbers (20%) – [View description](Problem_1.md)
+- [Problem_1.c](Workshop5/Problem_1.c): Generate triangle of prime numbers – [View description](Workshop5/Problem_1.md)
 
 
 
