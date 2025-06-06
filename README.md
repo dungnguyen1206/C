@@ -21,6 +21,14 @@ Workshop 3
 
 Workshop 4
 - [Workshop 4.c](Workshop4/Workshop%204.c): Sales data analysis – [View description](Workshop4/workshop04.md)
+
+Workshop 5
+- [Problem_1.c](Problem_1.c): Generate triangle of prime numbers – [View description](Problem_1.md)
+
+
+
+
+
 ## Author
 
 Dung Nguyen  
