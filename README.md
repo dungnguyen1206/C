@@ -24,6 +24,7 @@ Workshop 4
 
 Workshop 5
 - [Problem_1.c](Workshop5/Problem_1.c): Generate triangle of prime numbers – [View description](Workshop5/Problem_1.md)
+- [Problem_2.c](Workshop5/Problem_2.c): Count digit frequency in a string – [View description](Workshop5/Problem_2.md)
 
 
 
