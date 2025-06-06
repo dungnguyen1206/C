@@ -1,14 +1,17 @@
-# Problem 1 - Extract the Middle 5 Characters of a String
+# Problem 1 - Prime Number Triangle
 
 ## Description
-Write a C program that accepts a string input from the user and prints the 5 characters from the center of the string.
+Write a C program that prints a triangle of prime numbers based on a user-specified number of rows `n`.
 
 ## Input Requirements
-- The input is a single line string.
-- The string must have a minimum length of 5 characters.
+- The user inputs a single integer `n` (number of rows), with `n > 0`.
 
 ## Output Requirements
-- Print exactly 5 characters from the middle of the string.
-- The center is defined as:
-  - If the length of the string is `len`, then print from index `(len / 2 - 2)` to `(len / 2 + 2)`.
-- Characters must be printed in order, without any spaces or newlines between them.
+- The program prints a triangle with `n` rows.
+- The first row contains 1 prime number, the second row contains 2 prime numbers, and so on.
+- Prime numbers are printed in ascending order and continue from where the previous row left off.
+
+## Notes
+- Use a helper function to check if a number is prime.
+- Start printing from the first prime number: 2.
+- Use nested loops: an outer loop for rows and an inner loop for the number of primes in that row.
