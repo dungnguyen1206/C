@@ -15,23 +15,6 @@ int nt(int n){
 		return 1;
 	}
 }
-//void chuyendoi3(int n){ // chuyen tu thap phan sang nhi phan va bat phan
-//	int c=0, s=n;
-//  	while(n>0){
-//  		c++;
-//  		n/=8;
-//	  }
-//	  int a[c];
-//	  n=s;
-//	int i;
-//	for(i=c-1;i>=0;i--){
-//		a[i]=n%8;
-//		n/=8;
-//	}
-//	for(i=0;i<c;i++){
-//		printf("%d",a[i]);
-//	}
-//  }
 
 int main() {
   system("cls");
