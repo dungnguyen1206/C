@@ -26,6 +26,7 @@ Workshop 5
 - [Problem_1.c](Workshop5/Problem_1.c): Generate triangle of prime numbers – [View description](Workshop5/Problem_1.md)
 - [Problem_2.c](Workshop5/Problem_2.c): Count digit frequency in a string – [View description](Workshop5/Problem_2.md)
 - [Problem_3.c](Workshop5/Problem_3.c): Convert a binary string to its decimal equivalent – [View description](Workshop5/Problem_3.md)
+- [Problem_4.c](Workshop5/Problem_2.c): Print octal representation of a prime number – [View description](Workshop5/Problem_4.md)
 
 
 
