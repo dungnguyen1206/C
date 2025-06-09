@@ -31,6 +31,8 @@ Workshop 5 - Mini Problems
 - [Problem_6.c](Workshop5/Problem_6.c): Capitalize the first letter of each word in a given string – [View description](Workshop5/Problem_6.md)
 - [Problem_7.c](Workshop5/Problem_7.c): Print the next 4 prime numbers after a given integer – [View description](Workshop5/Problem_7.md)
 - [Problem_8.c](Workshop5/Problem_8.c): Search for and print all strings containing a given substring – [View description](Workshop5/Problem_8.md)
+- [Problem_9.c](Workshop5/Problem_9.c): Remove duplicates from an integer array and sort it in descending order – [View description](Workshop5/Problem_9.md)
+- [Problem_10.c](Workshop5/Problem_10.c): Separate even and odd numbers, sort even numbers in ascending order and odd numbers in descending order – [View description](Workshop5/Problem_10.md)
 
 ## Author
 
