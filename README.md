@@ -29,7 +29,7 @@ Workshop 5
 - [Problem_4.c](Workshop5/Problem_4.c): Convert a prime number to octal if applicable – [View description](Workshop5/Problem_4.md)
 - [Problem_5.c](Workshop5/Problem_5.c): Find even numbers that appear exactly twice – [View description](Workshop5/Problem_5.md)
 - [Problem_6.c](Workshop5/Problem_6.c): Capitalize the first letter of each word in a given string – [View description](Workshop5/Problem_6.md)
-
+- [Problem_7.c](Workshop5/Problem_7.c): Print the next 4 prime numbers after a given integer – [View description](Workshop5/Problem_7.md)
 
 
 ## Author
