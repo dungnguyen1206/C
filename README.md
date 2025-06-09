@@ -22,7 +22,7 @@ Workshop 3
 Workshop 4
 - [Workshop 4.c](Workshop4/Workshop%204.c): Sales data analysis – [View description](Workshop4/workshop04.md)
 
-Workshop 5 - mini problems
+Workshop 5 - Mini Problems
 - [Problem_1.c](Workshop5/Problem_1.c): Generate triangle of prime numbers – [View description](Workshop5/Problem_1.md)
 - [Problem_2.c](Workshop5/Problem_2.c): Count digit frequency in a string – [View description](Workshop5/Problem_2.md)
 - [Problem_3.c](Workshop5/Problem_3.c): Convert a binary string to its decimal equivalent – [View description](Workshop5/Problem_3.md)
@@ -30,7 +30,7 @@ Workshop 5 - mini problems
 - [Problem_5.c](Workshop5/Problem_5.c): Find even numbers that appear exactly twice – [View description](Workshop5/Problem_5.md)
 - [Problem_6.c](Workshop5/Problem_6.c): Capitalize the first letter of each word in a given string – [View description](Workshop5/Problem_6.md)
 - [Problem_7.c](Workshop5/Problem_7.c): Print the next 4 prime numbers after a given integer – [View description](Workshop5/Problem_7.md)
-
+- [Problem_8.c](Workshop5/Problem_8.c): Search for and print all strings containing a given substring – [View description](Workshop5/Problem_8.md)
 
 ## Author
 
