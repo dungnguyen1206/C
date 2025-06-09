@@ -28,7 +28,7 @@ Workshop 5
 - [Problem_3.c](Workshop5/Problem_3.c): Convert a binary string to its decimal equivalent – [View description](Workshop5/Problem_3.md)
 - [Problem_4.c](Workshop5/Problem_4.c): Convert a prime number to octal if applicable – [View description](Workshop5/Problem_4.md)
 - [Problem_5.c](Workshop5/Problem_5.c): Find even numbers that appear exactly twice – [View description](Workshop5/Problem_5.md)
-
+- [Problem_6.c](Workshop5/Problem_6.c): Capitalize the first letter of each word in a given string – [View description](Workshop5/Problem_6.md)
 
 
 
