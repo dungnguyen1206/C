@@ -22,7 +22,7 @@ Workshop 3
 Workshop 4
 - [Workshop 4.c](Workshop4/Workshop%204.c): Sales data analysis – [View description](Workshop4/workshop04.md)
 
-Workshop 5
+Workshop 5 - mini problems
 - [Problem_1.c](Workshop5/Problem_1.c): Generate triangle of prime numbers – [View description](Workshop5/Problem_1.md)
 - [Problem_2.c](Workshop5/Problem_2.c): Count digit frequency in a string – [View description](Workshop5/Problem_2.md)
 - [Problem_3.c](Workshop5/Problem_3.c): Convert a binary string to its decimal equivalent – [View description](Workshop5/Problem_3.md)
