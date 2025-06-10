@@ -33,6 +33,9 @@ Workshop 5 - Mini Problems
 - [Problem_8.c](Workshop5/Problem_8.c): Search for and print all strings containing a given substring – [View description](Workshop5/Problem_8.md)
 - [Problem_9.c](Workshop5/Problem_9.c): Remove duplicates from an integer array and sort it in descending order – [View description](Workshop5/Problem_9.md)
 - [Problem_10.c](Workshop5/Problem_10.c): Separate even and odd numbers, sort even numbers in ascending order and odd numbers in descending order – [View description](Workshop5/Problem_10.md)
+- [Problem_11.c](Workshop5/Problem_11.c): Count occurrences of a product name in a string (case-insensitive) – [View description](Workshop5/Problem_11.md)
+- [Problem_12.c](Workshop5/Problem_12.c): Determine number of days in a given month and year (considering leap years) – [View description](Workshop5/Problem_12.md)
+
 
 ## Author
 
