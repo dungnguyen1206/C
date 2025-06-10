@@ -35,7 +35,8 @@ Workshop 5 - Mini Problems
 - [Problem_10.c](Workshop5/Problem_10.c): Separate even and odd numbers, sort even numbers in ascending order and odd numbers in descending order – [View description](Workshop5/Problem_10.md)
 - [Problem_11.c](Workshop5/Problem_11.c): Count occurrences of a product name in a string (case-insensitive) – [View description](Workshop5/Problem_11.md)
 - [Problem_12.c](Workshop5/Problem_12.c): Determine number of days in a given month and year (considering leap years) – [View description](Workshop5/Problem_12.md)
-
+- [Problem_13.c](Workshop5/Problem_13.c): Compute the product of even numbers in an array – [View description](Workshop5/Problem_13.md)
+- [Problem_14.c](Workshop5/Problem_14.c): Convert a binary string to its two’s complement representation – [View description](Workshop5/Problem_14.md)
 
 ## Author
 
